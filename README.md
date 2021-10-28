@@ -4,7 +4,7 @@ From the [SkillFactory Data Science course](https://skillfactory.ru/data-scienti
 
 ## Projects:
 
-* [Проект 1. Игра: Угадай число](https://github/shva-ek/sf_data_science/project_0)
+* [Проект 1. Игра: Угадай число](https://github/shva-ek/shva-ek-sf_data_science/tree/main/project_0)
 * [Проект 2. __________]()
 * [Проект 3. __________]()
 
